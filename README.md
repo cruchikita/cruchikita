@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cruchikita
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning .NET 6, python, docker...
+- 🌱 I’m currently working with .NET 8, python, docker, SQL Server...
 - 📫 How to reach me: @cruchikita on social networks
 
 <!---
